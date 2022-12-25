@@ -32,7 +32,23 @@
 #main{
     height: 70vh;
 }
+#tagsHolder{
+    background-color: #afafb7;
 
+    display: flex;
+    height: 70%;
+    width: 60%;
+    color: black;
+    border-radius: 12px;
+    padding: 10px 20px;
+    flex-direction: column;
+}
+#tagsHolder span{
+    background-color: #8c8c92;
+    font-size: 42px;
+    border-radius: 8px;
+    padding-left: 10px;
+}
 #footer{
     background-color: #8c8c92;
     color: #8c8c92;
