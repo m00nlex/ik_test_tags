@@ -1,0 +1,19 @@
+{
+  "name": "ik_test_tags",
+  "version": "1.0.0",
+  "description": "const client = new pg.Client(config);",
+  "main": "log('Closed client connection'));",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m00nlex/ik_test_tags.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m00nlex/ik_test_tags/issues"
+  },
+  "homepage": "https://github.com/m00nlex/ik_test_tags#readme"
+}
