@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/m00nlex/ik_test_tags/issues"
   },
-  "homepage": "https://github.com/m00nlex/ik_test_tags#readme"
+  "homepage": "https://github.com/m00nlex/ik_test_tags#readme",
+  "dependencies": {
+    "pg": "^8.8.0"
+  }
 }
